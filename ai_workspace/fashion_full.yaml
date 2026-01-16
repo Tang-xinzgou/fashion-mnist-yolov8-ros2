@@ -1,0 +1,16 @@
+names:
+- T-shirt/top
+- Trouser
+- Pullover
+- Dress
+- Coat
+- Sandal
+- Shirt
+- Sneaker
+- Bag
+- Ankle boot
+nc: 10
+path: .
+test: ''
+train: fashion_mnist_yolo/images/train
+val: fashion_mnist_yolo/images/val

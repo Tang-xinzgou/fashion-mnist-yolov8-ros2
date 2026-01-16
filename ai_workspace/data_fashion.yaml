@@ -1,0 +1,14 @@
+names:
+- T-shirt/top
+- Trouser
+- Pullover
+- Dress
+- Coat
+- Sandal
+- Shirt
+- Sneaker
+- Bag
+- Ankle boot
+nc: 10
+train: data_fashion/images/train
+val: data_fashion/images/train

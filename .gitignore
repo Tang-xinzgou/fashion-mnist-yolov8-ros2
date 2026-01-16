@@ -1,0 +1,25 @@
+# 虚拟环境
+venv/
+env/
+ros2_venv/
+__pycache__/
+*.pyc
+
+# 大文件
+*.so
+*.csv
+*.pt
+*.pth
+*.onnx
+*.h5
+*.npz
+
+# 备份
+.git_backup/
+backup/
+*.backup
+*.bak
+
+# 数据集目录（可选不上传）
+fashion_data/
+archive/

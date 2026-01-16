@@ -1,0 +1,15 @@
+names:
+- T-shirt/top
+- Trouser
+- Pullover
+- Dress
+- Coat
+- Sandal
+- Shirt
+- Sneaker
+- Bag
+- Ankle boot
+nc: 10
+path: /home/txz/fashion_mnist_ros_peoject/ai_workspace
+train: fashion_data/images/train
+val: fashion_data/images/val
